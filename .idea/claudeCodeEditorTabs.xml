@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ClaudeCodeEditorTabs">
+    <option name="activeSessionId" value="47ffcf60-2812-4996-82ca-b67258ab3148" />
+    <option name="openSessionIds">
+      <list>
+        <option value="a7f30429-0e68-4446-90e3-c874db6f93b4" />
+        <option value="e8f0dee3-c5e7-4840-8356-744a10cfa8a2" />
+        <option value="47ffcf60-2812-4996-82ca-b67258ab3148" />
+      </list>
+    </option>
+    <option name="sessionPaths">
+      <map>
+        <entry key="47ffcf60-2812-4996-82ca-b67258ab3148" value="/sessions/5230cb78-3a85-4fcf-b8d9-b77673e5b969" />
+        <entry key="a7f30429-0e68-4446-90e3-c874db6f93b4" value="/sessions/0e0ff41e-a43c-4115-9c5e-00f7f9ca96ce" />
+        <entry key="e8f0dee3-c5e7-4840-8356-744a10cfa8a2" value="/sessions/5230cb78-3a85-4fcf-b8d9-b77673e5b969" />
+      </map>
+    </option>
+    <option name="sessionTitles">
+      <map>
+        <entry key="47ffcf60-2812-4996-82ca-b67258ab3148" value="Evaluate KNN model with 5-fold cross-validation re" />
+        <entry key="a7f30429-0e68-4446-90e3-c874db6f93b4" value="$PROJECT_DIR$/../../../../D" />
+        <entry key="e8f0dee3-c5e7-4840-8356-744a10cfa8a2" value="i have following results after testing my training" />
+      </map>
+    </option>
+  </component>
+</project>
