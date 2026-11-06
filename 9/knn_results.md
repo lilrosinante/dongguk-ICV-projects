@@ -1,6 +1,6 @@
 # KNN on CIFAR-10 with HOG features
 
-Generated 2026-11-06 10:57:02 by `knn.py`.
+Generated 2026-11-06 11:10:28 by `knn.py`.
 
 ## Run configuration
 
@@ -9,18 +9,12 @@ Generated 2026-11-06 10:57:02 by `knn.py`.
 | Training images | 5000 (500/class) |
 | Test images | 1000 (100/class) |
 | Classes | 10 |
-| Resize before HOG | 64x64 (grayscale) |
-| HOG orientations | 9 |
-| HOG pixels per cell | (8, 8) |
-| HOG cells per block | (2, 2) |
-| HOG block norm | L2-Hys |
 | Feature dimensions | 1764 |
 | Preprocessing | StandardScaler fitted inside each CV fold |
 | Cross-validation | Stratified 5-fold, shuffled |
-| Random seed | 42 |
 | K values tested | 1, 3, 5, 7, 9, 11, 13, 15, 21, 25, 31 |
 | Distance metrics tested | euclidean, manhattan |
-| Grid search time | 75.2s |
+| Grid search time | 61.6s |
 
 ## Choosing K
 
